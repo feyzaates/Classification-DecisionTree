@@ -1,0 +1,17 @@
+Train Results 
+Accuracy:            0.7261483187566022
+TPrate:              0.3681523866273159
+TNrate:              0.6318476133726841
+Presicion:           0.6297754131339974
+F-Score:             0.46466953108218895
+Total number of TP:  130.99328593187147
+Total number of TN:  224.81939025886362
+
+Test Results 
+Accuracy:            0.6100952175789901
+TPrate:              0.42822877143567223
+TNrate:              0.5717712285643278
+Presicion:           0.5277986373386465
+F-Score:             0.47282862386282226
+Total number of TP:  52.25206509652601
+Total number of TN:  69.76697841927201

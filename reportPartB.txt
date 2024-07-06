@@ -1,0 +1,8 @@
+Test Results 
+Accuracy:            0.6181612061491264
+TPrate:              0.45382677302139707
+TNrate:              0.546173226978603
+Presicion:           0.5667436472599446
+F-Score:             0.5040385953875757
+Total number of TP:  56.10762107873452
+Total number of TN:  67.52462015109076
